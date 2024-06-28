@@ -1,5 +1,5 @@
 import React from 'react';
-const ProductDetails = ({ productName, price, description }) => {
+const ProductDetails = ({ productName, price, description }) =>{
   return (
     <div>
       <h2>{productName}</h2>
